@@ -1,0 +1,97 @@
+{
+    "Header.Item1": "About me",
+    "Header.Item2": "Experience",
+    "Header.Item3": "Projects",
+    "Header.Item4": "Contact",
+    "Header.cvBtn": "Resume",
+    "Header.cvName": "Nagulapelly_Sai Krishna_Resume.pdf",
+    "Banner.Pretitle": "Hello! My name is",
+    "Banner.Description": "Software Engineer with 2+ years of experience writing code, debugging, and reviewing complex systems and distributed networks using Java, and JavaScript. Strong background in data structures, algorithms, compute technologies, and accessible development.",
+    "Banner.ActionBtn": "Get in touch",
+    "AboutMe.Title": "About me",
+    "AboutMe.Paragraphs": [
+        "Experienced Software Engineer with a strong background in developing full-stack web applications, optimizing code for performance improvements, and designing fault-tolerant software architectures. Skilled in Java, JavaScript, TypeScript, SQL, Python, Spring Boot, Spring MVC, Angular, Hibernate, MongoDB, MySQL, Cassandra, Git, Maven, Jira, Jenkins, and SonarQube."
+    ],
+    "Experience.Title": "Experience",
+    "Experience.Jobs": [
+        {
+            "Tab": "STG",
+            "Title": "Software Engineer",
+            "Date": "05/2022 - Present",
+            "Description": [
+                "Developed a full-stack web application that increased user interaction by 45% in 8 months.",
+                "Developed fault-tolerant software architecture resulting in 98% uptime in 3 months.",
+                "Optimized code to reduce page load time by 30% in 6 months, reducing server costs.",
+                "Designed, coded, and tested software architecture resulting in a 50% decrease in customer bug reports within 6 months."
+            ]
+        }
+    ],
+    "FeatureProjects.Title": "Projects that I was a part of",
+    "FeatureProjects.Label": "Featured Project",
+    "FeatureProjects.Projects": [
+        {
+            "Title": "NACS - CERT Application",
+            "Description": "Led development efforts for a groundbreaking project focused on testing vehicles and automating the generation of PDF reports detailing emissions and certification for each vehicle type. Utilized Java, Spring Boot, Angular, and MongoDB technologies.",
+            "Technologies": [
+                "Spring Boot",
+                "Mongo DB",
+                "MySql",
+                "Angular",
+                "CI/CD",
+                "RxJS"
+            ],
+            "imgs": [
+                "assets/images/ipm/image3.jpg"
+            ]
+        },
+        {
+            "Title": "Vehicle Buyback System",
+            "Description": "Streamlined the process for customers to sell their used vehicles to dealerships or buyers in cases such as Lemon law, customer dissatisfaction, legal settlements, or accident-damaged vehicles. Utilized Java, JavaScript, and other web development technologies.",
+            "Technologies": [
+                "Spring Boot",
+                "Mongo DB",
+                "MySql",
+                "Angular",
+                "CI/CD",
+                "RxJS"
+            ],
+            "imgs": [
+                "assets/images/ipm/image2.jpeg"
+            ]
+        },
+        {
+            "Title": "Insight Project Manager",
+            "Description": "Developed the Timesheet (Insight PM application) to track employee performance, generate reports, and manage timesheets. Utilized Java, JavaScript, Spring, Angular, and other relevant technologies.",
+             "Technologies": [
+                "Spring Boot",
+                "Mongo DB",
+                "MySql",
+                "Angular",
+                "CI/CD",
+                "RxJS"
+            ],
+            "imgs": [
+                "assets/images/ipm/image1.png"
+            ]
+        }
+    ],
+    "OtherProjects.Title": "More personal projects",
+    "OtherProjects.Projects": [
+        {
+            "Title": "JWT Integration",
+            "Description": "JWT AUTHENTICATION IN SPRING BOOT WITH MySQL DB",
+            "ghLink": "https://github.com/nagulapellysaikrishna/springboot-jwt",
+            "demoLink": "https://github.com/nagulapellysaikrishna/springboot-jwt",
+            "Technologies": [
+                "Spring boot",
+                "JWT",
+                "Java",
+                "MySQL"
+            ]
+        }
+    ],
+    "Contact.Pretitle": "What’s Next",
+    "Contact.Title": "Get in touch!",
+    "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
+    "Contact.Btn": "Say Hello"
+}
